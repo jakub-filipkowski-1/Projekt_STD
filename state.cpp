@@ -217,4 +217,3 @@ void CTVState_PickChannel::putInput(char c)
 	m_sNewChannel >> getParent()->m_iChannel;
 	getParent()->setState(new CTVState_Idle(getParent()));
 }
-
