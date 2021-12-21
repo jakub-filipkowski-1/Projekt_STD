@@ -9,7 +9,7 @@
 #include <string>
 using namespace std;
  
- 
+
 class ZestawKomputerowy {
  
 private:
