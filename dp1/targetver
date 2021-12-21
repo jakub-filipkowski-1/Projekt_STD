@@ -1,0 +1,7 @@
+#pragma once
+
+// Dołączenie nagłówka SDKDDKVer.h definiuje najwyższą dostępną platformę systemu Windows.
+
+// Jeśli chcesz skompilować aplikację dla wcześniejszej platformy systemu Windows, dołącz nagłówek WinSD
+
+#include <SDKDDKVer.h> 
